@@ -150,4 +150,4 @@ All protected endpoints require JWT authentication.
 
 **FacePunch** — Fast, Secure, and Modern Face Recognition Attendance System.
 
-_Made with enthusiasm by *Shreya Upadhyay*
+Made with enthusiasm by *Shreya Upadhyay*
